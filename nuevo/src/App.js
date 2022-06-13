@@ -1,12 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
+    
     <div className="App">
-      HOLA
+     
     </div>
   );
 }
+
+function ComponenteForm(){
+  return(
+
+
+
+  )
+}
+
 
 export default App;
